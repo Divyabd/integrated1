@@ -32,7 +32,7 @@ pipeline{
           "files": [
             {
               "pattern": "target/*.jar",
-              "target": "art-doc-dev-loc"
+              "target": "art-doc-dev-loc1"
             }
          ]
     }''',
@@ -50,7 +50,7 @@ pipeline{
                      spec: '''{
                              "files": [
                                       {
-                                      "pattern": "art-doc-dev-loc/my-app-1.0-SNAPSHOT.jar",
+                                      "pattern": "art-doc-dev-loc1/my-app-1.0-SNAPSHOT.jar",
                                       "target": "bazinga/"
                                     }
                                 ]
