@@ -3,9 +3,7 @@
   <groupId>Integrated1</groupId>
   <artifactId>Integrated1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <properties>
-    <java.version>11</java.version>
-</properties>
+  
   <properties>
   <sonar.projectKey>Divyabd_integrated1</sonar.projectKey>
   <sonar.organization>divyabd</sonar.organization>
