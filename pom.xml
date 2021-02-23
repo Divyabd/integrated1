@@ -6,6 +6,11 @@
   <properties>
     <java.version>11</java.version>
 </properties>
+  <properties>
+  <sonar.projectKey>Divyabd_integrated1</sonar.projectKey>
+  <sonar.organization>divyabd</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
