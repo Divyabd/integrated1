@@ -7,11 +7,7 @@ pipeline{
     }
   }
   stages {
-    stage ("maven build"){
-      steps{
-        sh 'mvn vertion'
-      }
-    }
+    
           stage("build & SonarQube analysis") {
   
             steps {
